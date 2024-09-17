@@ -6,9 +6,7 @@
 Cybersecurity student at Air University, passionate about cloud computing and coding. Dedicated to solving complex problems and securing systems through innovative technology.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has sparked a strong passion for cybersecurity, with a specific interest in enhancing cloud computing solutions. Eager to apply my skills in coding and system security, I aim to address complex challenges and contribute to innovative projects. Committed to continuous learning, I am ready to make a meaningful impact in the tech industry.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
