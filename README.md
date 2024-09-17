@@ -1,7 +1,7 @@
 # Hello, I'm   SAIF-JILLANI
-<a href="https://www.linkedin.com/in/saif-jillani-89a761329/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+<a href="https://linkedin.com/saif-jillani-89a761329/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+[Brief Introduction - Remove this afterwards]
 
 
 
