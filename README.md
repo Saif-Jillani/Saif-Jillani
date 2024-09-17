@@ -13,7 +13,7 @@ My journey in computer science has sparked a strong passion for cybersecurity, w
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Python Developer          | <a href="https://google.com">Detection Lab</a>|
+| Python Developer          | <a href="https://google.com">File Manager</a>|
 
 
 ## Tools
