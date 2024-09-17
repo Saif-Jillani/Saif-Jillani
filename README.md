@@ -3,16 +3,16 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-Cybersecurity student at Air University, passionate about cloud computing and coding. Dedicated to solving complex problems and securing systems through innovative technology. 
+Cybersecurity student at Air University with a passion for coding, cloud computing, and penetration testing. Dedicated to solving complex problems and securing systems through innovative technology and cutting-edge techniques.
 
 ## Objective
-My journey in computer science has sparked a strong passion for cybersecurity, with a specific interest in enhancing cloud computing solutions. Eager to apply my skills in coding and system security, I aim to address complex challenges and contribute to innovative projects. Committed to continuous learning, I am ready to make a meaningful impact in the tech industry.
+My journey in computer science has ignited a deep passion for cybersecurity, with a particular focus on advancing cloud computing solutions and penetration testing. Eager to leverage my skills in coding, system security, and vulnerability assessment, I aim to tackle complex challenges and contribute to innovative projects. Committed to continuous learning, I am ready to make a meaningful impact in the tech industry.
 
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Python Developer          | <a href="https://github.com/SaifJillani/Python-Snake-Project">PYTHON SNAKE PROJECT</a>|
+| Game Development          | <a href="https://github.com/SaifJillani/Python-Snake-Project">PYTHON SNAKE PROJECT</a>|
 
 
 ## Tools
