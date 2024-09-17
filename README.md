@@ -2,16 +2,7 @@
 <a href="https://www.linkedin.com/in/saif-jillani-89a761329/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
-[Brief Introduction - Remove this afterwards]
-
-
-
-
-
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Cybersecurity student at Air University, passionate about cloud computing and coding. Dedicated to solving complex problems and securing systems through innovative technology.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
