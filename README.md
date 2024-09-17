@@ -9,7 +9,6 @@ Cybersecurity student at Air University, passionate about cloud computing and co
 My journey in computer science has sparked a strong passion for cybersecurity, with a specific interest in enhancing cloud computing solutions. Eager to apply my skills in coding and system security, I aim to address complex challenges and contribute to innovative projects. Committed to continuous learning, I am ready to make a meaningful impact in the tech industry.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
