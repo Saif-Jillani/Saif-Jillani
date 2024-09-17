@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-Cybersecurity student at Air University, passionate about cloud computing and coding. Dedicated to solving complex problems and securing systems through innovative technology.
+Cybersecurity student at Air University, passionate about cloud computing and coding. Dedicated to solving complex problems and securing systems through innovative technology. 
 
 ## Objective
 My journey in computer science has sparked a strong passion for cybersecurity, with a specific interest in enhancing cloud computing solutions. Eager to apply my skills in coding and system security, I aim to address complex challenges and contribute to innovative projects. Committed to continuous learning, I am ready to make a meaningful impact in the tech industry.
